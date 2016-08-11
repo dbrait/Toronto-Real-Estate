@@ -1,0 +1,141 @@
+"Neighbourhood","Neighbourhood Id","Healthy Food Index"
+"West Humber-Clairville",1.0,23.81942619
+"Mount Olive-Silverstone-Jamestown",2.0,37.5718032
+"Thistletown-Beaumond Heights",3.0,42.26492258
+"Rexdale-Kipling",4.0,23.31406015
+"Elms-Old Rexdale",5.0,24.70674487
+"Kingsview Village-The Westway",6.0,35.69010417
+"Willowridge-Martingrove-Richview",7.0,30.46117546
+"Humber Heights-Westmount",8.0,32.82074657
+"Edenbridge-Humber Valley",9.0,46.40512266
+"Princess-Rosethorn",10.0,39.51515152
+"Eringate-Centennial-West Deane",11.0,10.42735043
+"Markland Wood",12.0,7.986111111
+"Etobicoke West Mall",13.0,15.40540541
+"Islington-City Centre West",14.0,31.01048254
+"Kingsway South",15.0,43.14723591
+"Stonegate-Queensway",16.0,31.23447104
+"Mimico",17.0,21.58893567
+"New Toronto",18.0,24.8404961
+"Long Branch",19.0,28.08128664
+"Alderwood",20.0,11.40705842
+"Humber Summit",21.0,32.33336298
+"Humbermede",22.0,20.51637252
+"Pelmo Park-Humberlea",23.0,21.70634921
+"Black Creek",24.0,41.84227479
+"Glenfield-Jane Heights",25.0,41.04945851
+"Downsview-Roding-CFB",26.0,23.71815138
+"York University Heights",27.0,47.0027417
+"Rustic",28.0,16.54904306
+"Maple Leaf",29.0,14.41860465
+"Brookhaven-Amesbury",30.0,43.09691113
+"Yorkdale-Glen Park",31.0,21.66150585
+"Englemount-Lawrence",32.0,43.98385977
+"Clanton Park",33.0,19.35211628
+"Bathurst Manor",34.0,18.79944768
+"Westminster-Branson",35.0,24.62606838
+"Newtonbrook West",36.0,26.14322995
+"Willowdale West",37.0,17.67301433
+"Lansing-Westgate",38.0,19.11254401
+"Bedford Park-Nortown",39.0,47.74426161
+"St.Andrew-Windfields",40.0,18.23337826
+"Bridle Path-Sunnybrook-York Mills",41.0,22.25679688
+"Banbury-Don Mills",42.0,21.30961631
+"Victoria Village",43.0,26.89566547
+"Flemingdon Park",44.0,21.65808666
+"Parkwoods-Donalda",45.0,33.60035865
+"Pleasant View",46.0,22.56349206
+"Don Valley Village",47.0,37.87151082
+"Hillcrest Village",48.0,48.45726496
+"Bayview Woods-Steeles",49.0,35.6122449
+"Newtonbrook East",50.0,29.12121721
+"Willowdale East",51.0,28.89610121
+"Bayview Village",52.0,32.11659664
+"Henry Farm",53.0,20.79983509
+"O'Connor-Parkview",54.0,37.63418951
+"Thorncliffe Park",55.0,34.53092214
+"Leaside-Bennington",56.0,40.94224624
+"Broadview North",57.0,31.36224154
+"Old East York",58.0,24.75785326
+"Danforth-East York",59.0,24.55916361
+"Woodbine-Lumsden",60.0,27.87248861
+"Taylor-Massey",61.0,38.18876848
+"East End-Danforth",62.0,35.29494946
+"The Beaches",63.0,31.53076726
+"Woodbine Corridor",64.0,29.03610176
+"Greenwood-Coxwell",65.0,44.2872901
+"Danforth",66.0,32.16329245
+"Playter Estates-Danforth",67.0,42.50933102
+"North Riverdale",68.0,47.16933058
+"Blake-Jones",69.0,39.98350079
+"South Riverdale",70.0,45.86487073
+"Cabbagetown-South St.James Town",71.0,43.71332101
+"Regent Park",72.0,42.52451212
+"Moss Park",73.0,42.75599265
+"North St.James Town",74.0,34.02553867
+"Church-Yonge Corridor",75.0,33.49513312
+"Bay Street Corridor",76.0,24.82586223
+"Waterfront Communities-The Island",77.0,31.61228116
+"Kensington-Chinatown",78.0,37.56946045
+"University",79.0,42.62130456
+"Palmerston-Little Italy",80.0,45.80916628
+"Trinity-Bellwoods",81.0,35.45291803
+"Niagara",82.0,34.93832569
+"Dufferin Grove",83.0,40.06850919
+"Little Portugal",84.0,37.58332707
+"South Parkdale",85.0,26.84485443
+"Roncesvalles",86.0,44.8467742
+"High Park-Swansea",87.0,46.52535058
+"High Park North",88.0,40.2363337
+"Runnymede-Bloor West Village",89.0,45.63957129
+"Junction Area",90.0,44.08870531
+"Weston-Pellam Park",91.0,52.5738666
+"Corso Italia-Davenport",92.0,37.93730645
+"Dovercourt-Wallace Emerson-Juncti",93.0,35.06452856
+"Wychwood",94.0,40.49439352
+"Annex",95.0,38.84878443
+"Casa Loma",96.0,32.33425341
+"Yonge-St.Clair",97.0,32.64775498
+"Rosedale-Moore Park",98.0,32.20252037
+"Mount Pleasant East",99.0,50.40464471
+"Yonge-Eglinton",100.0,31.95239964
+"Forest Hill South",101.0,18.49485749
+"Forest Hill North",102.0,29.11023751
+"Lawrence Park South",103.0,37.53120334
+"Mount Pleasant West",104.0,41.60419442
+"Lawrence Park North",105.0,52.03381227
+"Humewood-Cedarvale",106.0,32.85052709
+"Oakwood Village",107.0,41.06922203
+"Briar Hill-Belgravia",108.0,34.22843377
+"Caledonia-Fairbank",109.0,53.477392
+"Keelesdale-Eglinton West",110.0,34.47612977
+"Rockcliffe-Smythe",111.0,31.86712201
+"Beechborough-Greenbrook",112.0,25.57320898
+"Weston",113.0,41.44993692
+"Lambton Baby Point",114.0,27.28336142
+"Mount Dennis",115.0,29.91029804
+"Steeles",116.0,11.36363636
+"L'Amoreaux",117.0,30.72683907
+"Tam O'Shanter-Sullivan",118.0,41.36856195
+"Wexford/Maryvale",119.0,42.08486781
+"Clairlea-Birchmount",120.0,30.7954607
+"Oakridge",121.0,35.42600044
+"Birchcliffe-Cliffside",122.0,32.73525484
+"Cliffcrest",123.0,25.54522156
+"Kennedy Park",124.0,34.95907143
+"Ionview",125.0,47.14105339
+"Dorset Park",126.0,32.26843384
+"Bendale",127.0,29.11670669
+"Agincourt South-Malvern West",128.0,35.26288367
+"Agincourt North",129.0,38.09437229
+"Milliken",130.0,25.25084651
+"Rouge",131.0,21.95409103
+"Malvern",132.0,38.63126639
+"Centennial Scarborough",133.0,9.353233831
+"Highland Creek",134.0,0.628930818
+"Morningside",135.0,6.666666667
+"West Hill",136.0,28.0550994
+"Woburn",137.0,27.73058349
+"Eglinton East",138.0,34.78626589
+"Scarborough Village",139.0,35.4800711
+"Guildwood",140.0,15.56603774

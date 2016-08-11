@@ -1,0 +1,141 @@
+"Neighbourhood","Neighbourhood Id","Cultural Location Index"
+"West Humber-Clairville",1.0,0.09
+"Mount Olive-Silverstone-Jamestown",2.0,0.13
+"Thistletown-Beaumond Heights",3.0,0.2
+"Rexdale-Kipling",4.0,0.07
+"Elms-Old Rexdale",5.0,0.11
+"Kingsview Village-The Westway",6.0,0.15
+"Willowridge-Martingrove-Richview",7.0,0.2
+"Humber Heights-Westmount",8.0,0.22
+"Edenbridge-Humber Valley",9.0,0.43
+"Princess-Rosethorn",10.0,0.37
+"Eringate-Centennial-West Deane",11.0,0.27
+"Markland Wood",12.0,0.18
+"Etobicoke West Mall",13.0,0.33
+"Islington-City Centre West",14.0,0.53
+"Kingsway South",15.0,0.45
+"Stonegate-Queensway",16.0,0.51
+"Mimico",17.0,0.61
+"New Toronto",18.0,0.51
+"Long Branch",19.0,0.4
+"Alderwood",20.0,0.33
+"Humber Summit",21.0,0.13
+"Humbermede",22.0,0.18
+"Pelmo Park-Humberlea",23.0,0.3
+"Black Creek",24.0,0.28
+"Glenfield-Jane Heights",25.0,0.17
+"Downsview-Roding-CFB",26.0,0.35
+"York University Heights",27.0,0.3
+"Rustic",28.0,0.29
+"Maple Leaf",29.0,0.09
+"Brookhaven-Amesbury",30.0,0.2
+"Yorkdale-Glen Park",31.0,0.19
+"Englemount-Lawrence",32.0,0.28
+"Clanton Park",33.0,0.19
+"Bathurst Manor",34.0,0.52
+"Westminster-Branson",35.0,0.53
+"Newtonbrook West",36.0,0.31
+"Willowdale West",37.0,0.59
+"Lansing-Westgate",38.0,0.54
+"Bedford Park-Nortown",39.0,0.52
+"St.Andrew-Windfields",40.0,0.54
+"Bridle Path-Sunnybrook-York Mills",41.0,0.61
+"Banbury-Don Mills",42.0,0.65
+"Victoria Village",43.0,0.51
+"Flemingdon Park",44.0,0.44
+"Parkwoods-Donalda",45.0,0.54
+"Pleasant View",46.0,0.38
+"Don Valley Village",47.0,0.42
+"Hillcrest Village",48.0,0.31
+"Bayview Woods-Steeles",49.0,0.33
+"Newtonbrook East",50.0,0.38
+"Willowdale East",51.0,0.55
+"Bayview Village",52.0,0.43
+"Henry Farm",53.0,0.35
+"O'Connor-Parkview",54.0,0.43
+"Thorncliffe Park",55.0,0.49
+"Leaside-Bennington",56.0,0.67
+"Broadview North",57.0,0.55
+"Old East York",58.0,0.46
+"Danforth-East York",59.0,0.49
+"Woodbine-Lumsden",60.0,0.41
+"Taylor-Massey",61.0,0.29
+"East End-Danforth",62.0,0.73
+"The Beaches",63.0,0.83
+"Woodbine Corridor",64.0,0.76
+"Greenwood-Coxwell",65.0,0.78
+"Danforth",66.0,0.64
+"Playter Estates-Danforth",67.0,0.71
+"North Riverdale",68.0,0.87
+"Blake-Jones",69.0,0.62
+"South Riverdale",70.0,0.95
+"Cabbagetown-South St.James Town",71.0,0.85
+"Regent Park",72.0,0.92
+"Moss Park",73.0,0.87
+"North St.James Town",74.0,0.76
+"Church-Yonge Corridor",75.0,0.76
+"Bay Street Corridor",76.0,0.81
+"Waterfront Communities-The Island",77.0,0.9
+"Kensington-Chinatown",78.0,0.91
+"University",79.0,0.79
+"Palmerston-Little Italy",80.0,0.93
+"Trinity-Bellwoods",81.0,0.97
+"Niagara",82.0,0.98
+"Dufferin Grove",83.0,0.81
+"Little Portugal",84.0,0.95
+"South Parkdale",85.0,0.93
+"Roncesvalles",86.0,0.93
+"High Park-Swansea",87.0,0.77
+"High Park North",88.0,0.85
+"Runnymede-Bloor West Village",89.0,0.66
+"Junction Area",90.0,0.6
+"Weston-Pellam Park",91.0,0.54
+"Corso Italia-Davenport",92.0,0.65
+"Dovercourt-Wallace Emerson-Juncti",93.0,0.87
+"Wychwood",94.0,0.88
+"Annex",95.0,0.9
+"Casa Loma",96.0,0.89
+"Yonge-St.Clair",97.0,0.84
+"Rosedale-Moore Park",98.0,0.88
+"Mount Pleasant East",99.0,0.74
+"Yonge-Eglinton",100.0,0.65
+"Forest Hill South",101.0,0.73
+"Forest Hill North",102.0,0.54
+"Lawrence Park South",103.0,0.66
+"Mount Pleasant West",104.0,0.62
+"Lawrence Park North",105.0,0.5
+"Humewood-Cedarvale",106.0,0.65
+"Oakwood Village",107.0,0.59
+"Briar Hill-Belgravia",108.0,0.28
+"Caledonia-Fairbank",109.0,0.22
+"Keelesdale-Eglinton West",110.0,0.13
+"Rockcliffe-Smythe",111.0,0.3
+"Beechborough-Greenbrook",112.0,0.21
+"Weston",113.0,0.27
+"Lambton Baby Point",114.0,0.52
+"Mount Dennis",115.0,0.11
+"Steeles",116.0,0.22
+"L'Amoreaux",117.0,0.4
+"Tam O'Shanter-Sullivan",118.0,0.36
+"Wexford/Maryvale",119.0,0.4
+"Clairlea-Birchmount",120.0,0.29
+"Oakridge",121.0,0.37
+"Birchcliffe-Cliffside",122.0,0.64
+"Cliffcrest",123.0,0.34
+"Kennedy Park",124.0,0.05
+"Ionview",125.0,0.13
+"Dorset Park",126.0,0.3
+"Bendale",127.0,0.46
+"Agincourt South-Malvern West",128.0,0.5
+"Agincourt North",129.0,0.48
+"Milliken",130.0,0.36
+"Rouge",131.0,0.5
+"Malvern",132.0,0.39
+"Centennial Scarborough",133.0,0.38
+"Highland Creek",134.0,0.38
+"Morningside",135.0,0.4
+"West Hill",136.0,0.42
+"Woburn",137.0,0.36
+"Eglinton East",138.0,0.25
+"Scarborough Village",139.0,0.5
+"Guildwood",140.0,0.46

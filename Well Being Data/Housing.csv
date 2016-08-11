@@ -1,0 +1,141 @@
+"Neighbourhood","Neighbourhood Id","Combined Indicators","Rent Bank Applicants","Social Housing Units","Social Housing RGI"
+"West Humber-Clairville",1.0,"N/A",21.0,950.0,411.0
+"Mount Olive-Silverstone-Jamestown",2.0,"N/A",44.0,1288.0,1181.0
+"Thistletown-Beaumond Heights",3.0,"N/A",7.0,372.0,180.0
+"Rexdale-Kipling",4.0,"N/A",18.0,308.0,299.0
+"Elms-Old Rexdale",5.0,"N/A",12.0,358.0,358.0
+"Kingsview Village-The Westway",6.0,"N/A",19.0,553.0,401.0
+"Willowridge-Martingrove-Richview",7.0,"N/A",18.0,762.0,511.0
+"Humber Heights-Westmount",8.0,"N/A",4.0,688.0,390.0
+"Edenbridge-Humber Valley",9.0,"N/A",7.0,0.0,0.0
+"Princess-Rosethorn",10.0,"N/A",1.0,0.0,0.0
+"Eringate-Centennial-West Deane",11.0,"N/A",6.0,0.0,0.0
+"Markland Wood",12.0,"N/A",4.0,0.0,0.0
+"Etobicoke West Mall",13.0,"N/A",11.0,200.0,198.0
+"Islington-City Centre West",14.0,"N/A",12.0,1240.0,1178.0
+"Kingsway South",15.0,"N/A",0.0,0.0,0.0
+"Stonegate-Queensway",16.0,"N/A",11.0,129.0,80.0
+"Mimico",17.0,"N/A",26.0,879.0,779.0
+"New Toronto",18.0,"N/A",24.0,1010.0,753.0
+"Long Branch",19.0,"N/A",11.0,106.0,73.0
+"Alderwood",20.0,"N/A",4.0,77.0,39.0
+"Humber Summit",21.0,"N/A",11.0,133.0,114.0
+"Humbermede",22.0,"N/A",12.0,223.0,160.0
+"Pelmo Park-Humberlea",23.0,"N/A",4.0,359.0,69.0
+"Black Creek",24.0,"N/A",24.0,1564.0,1541.0
+"Glenfield-Jane Heights",25.0,"N/A",13.0,1511.0,1452.0
+"Downsview-Roding-CFB",26.0,"N/A",40.0,571.0,495.0
+"York University Heights",27.0,"N/A",33.0,511.0,411.0
+"Rustic",28.0,"N/A",5.0,1292.0,1145.0
+"Maple Leaf",29.0,"N/A",3.0,175.0,80.0
+"Brookhaven-Amesbury",30.0,"N/A",40.0,849.0,492.0
+"Yorkdale-Glen Park",31.0,"N/A",5.0,657.0,369.0
+"Englemount-Lawrence",32.0,"N/A",7.0,2104.0,1701.0
+"Clanton Park",33.0,"N/A",6.0,569.0,328.0
+"Bathurst Manor",34.0,"N/A",3.0,301.0,301.0
+"Westminster-Branson",35.0,"N/A",9.0,966.0,646.0
+"Newtonbrook West",36.0,"N/A",3.0,380.0,61.0
+"Willowdale West",37.0,"N/A",1.0,664.0,519.0
+"Lansing-Westgate",38.0,"N/A",2.0,0.0,0.0
+"Bedford Park-Nortown",39.0,"N/A",3.0,236.0,213.0
+"St.Andrew-Windfields",40.0,"N/A",3.0,38.0,34.0
+"Bridle Path-Sunnybrook-York Mills",41.0,"N/A",0.0,43.0,35.0
+"Banbury-Don Mills",42.0,"N/A",4.0,304.0,210.0
+"Victoria Village",43.0,"N/A",13.0,922.0,868.0
+"Flemingdon Park",44.0,"N/A",19.0,748.0,739.0
+"Parkwoods-Donalda",45.0,"N/A",53.0,805.0,551.0
+"Pleasant View",46.0,"N/A",4.0,0.0,0.0
+"Don Valley Village",47.0,"N/A",5.0,111.0,109.0
+"Hillcrest Village",48.0,"N/A",0.0,1027.0,1019.0
+"Bayview Woods-Steeles",49.0,"N/A",4.0,174.0,171.0
+"Newtonbrook East",50.0,"N/A",2.0,0.0,0.0
+"Willowdale East",51.0,"N/A",7.0,496.0,456.0
+"Bayview Village",52.0,"N/A",2.0,131.0,130.0
+"Henry Farm",53.0,"N/A",5.0,232.0,0.0
+"O'Connor-Parkview",54.0,"N/A",24.0,528.0,290.0
+"Thorncliffe Park",55.0,"N/A",15.0,567.0,410.0
+"Leaside-Bennington",56.0,"N/A",2.0,0.0,0.0
+"Broadview North",57.0,"N/A",11.0,154.0,94.0
+"Old East York",58.0,"N/A",6.0,182.0,96.0
+"Danforth-East York",59.0,"N/A",7.0,423.0,386.0
+"Woodbine-Lumsden",60.0,"N/A",3.0,203.0,198.0
+"Taylor-Massey",61.0,"N/A",15.0,381.0,354.0
+"East End-Danforth",62.0,"N/A",13.0,1016.0,771.0
+"The Beaches",63.0,"N/A",7.0,151.0,93.0
+"Woodbine Corridor",64.0,"N/A",6.0,950.0,715.0
+"Greenwood-Coxwell",65.0,"N/A",9.0,830.0,582.0
+"Danforth",66.0,"N/A",3.0,356.0,352.0
+"Playter Estates-Danforth",67.0,"N/A",3.0,194.0,167.0
+"North Riverdale",68.0,"N/A",5.0,98.0,24.0
+"Blake-Jones",69.0,"N/A",5.0,751.0,673.0
+"South Riverdale",70.0,"N/A",14.0,1479.0,1055.0
+"Cabbagetown-South St.James Town",71.0,"N/A",16.0,860.0,773.0
+"Regent Park",72.0,"N/A",6.0,2120.0,1926.0
+"Moss Park",73.0,"N/A",5.0,3399.0,2926.0
+"North St.James Town",74.0,"N/A",15.0,1704.0,1653.0
+"Church-Yonge Corridor",75.0,"N/A",14.0,3324.0,2271.0
+"Bay Street Corridor",76.0,"N/A",5.0,754.0,313.0
+"Waterfront Communities-The Island",77.0,"N/A",21.0,2644.0,1378.0
+"Kensington-Chinatown",78.0,"N/A",4.0,2064.0,1643.0
+"University",79.0,"N/A",2.0,326.0,144.0
+"Palmerston-Little Italy",80.0,"N/A",2.0,169.0,156.0
+"Trinity-Bellwoods",81.0,"N/A",1.0,250.0,169.0
+"Niagara",82.0,"N/A",14.0,939.0,475.0
+"Dufferin Grove",83.0,"N/A",6.0,166.0,103.0
+"Little Portugal",84.0,"N/A",7.0,529.0,247.0
+"South Parkdale",85.0,"N/A",30.0,1600.0,1011.0
+"Roncesvalles",86.0,"N/A",4.0,511.0,470.0
+"High Park-Swansea",87.0,"N/A",7.0,300.0,232.0
+"High Park North",88.0,"N/A",6.0,788.0,640.0
+"Runnymede-Bloor West Village",89.0,"N/A",1.0,4.0,4.0
+"Junction Area",90.0,"N/A",5.0,84.0,48.0
+"Weston-Pellam Park",91.0,"N/A",8.0,734.0,611.0
+"Corso Italia-Davenport",92.0,"N/A",1.0,59.0,35.0
+"Dovercourt-Wallace Emerson-Juncti",93.0,"N/A",10.0,1132.0,547.0
+"Wychwood",94.0,"N/A",7.0,1229.0,542.0
+"Annex",95.0,"N/A",7.0,1436.0,830.0
+"Casa Loma",96.0,"N/A",6.0,97.0,49.0
+"Yonge-St.Clair",97.0,"N/A",5.0,0.0,0.0
+"Rosedale-Moore Park",98.0,"N/A",6.0,520.0,99.0
+"Mount Pleasant East",99.0,"N/A",3.0,291.0,289.0
+"Yonge-Eglinton",100.0,"N/A",1.0,0.0,0.0
+"Forest Hill South",101.0,"N/A",5.0,174.0,0.0
+"Forest Hill North",102.0,"N/A",1.0,311.0,223.0
+"Lawrence Park South",103.0,"N/A",2.0,113.0,85.0
+"Mount Pleasant West",104.0,"N/A",14.0,1383.0,1077.0
+"Lawrence Park North",105.0,"N/A",1.0,113.0,106.0
+"Humewood-Cedarvale",106.0,"N/A",14.0,480.0,221.0
+"Oakwood Village",107.0,"N/A",10.0,825.0,441.0
+"Briar Hill-Belgravia",108.0,"N/A",10.0,316.0,286.0
+"Caledonia-Fairbank",109.0,"N/A",7.0,7.0,7.0
+"Keelesdale-Eglinton West",110.0,"N/A",12.0,351.0,290.0
+"Rockcliffe-Smythe",111.0,"N/A",16.0,1092.0,1075.0
+"Beechborough-Greenbrook",112.0,"N/A",9.0,824.0,395.0
+"Weston",113.0,"N/A",45.0,1036.0,832.0
+"Lambton Baby Point",114.0,"N/A",10.0,668.0,463.0
+"Mount Dennis",115.0,"N/A",14.0,1145.0,436.0
+"Steeles",116.0,"N/A",7.0,0.0,0.0
+"L'Amoreaux",117.0,"N/A",16.0,1776.0,1510.0
+"Tam O'Shanter-Sullivan",118.0,"N/A",13.0,607.0,570.0
+"Wexford/Maryvale",119.0,"N/A",12.0,736.0,339.0
+"Clairlea-Birchmount",120.0,"N/A",11.0,422.0,209.0
+"Oakridge",121.0,"N/A",14.0,1486.0,1464.0
+"Birchcliffe-Cliffside",122.0,"N/A",15.0,370.0,367.0
+"Cliffcrest",123.0,"N/A",14.0,510.0,477.0
+"Kennedy Park",124.0,"N/A",10.0,1360.0,1316.0
+"Ionview",125.0,"N/A",19.0,348.0,297.0
+"Dorset Park",126.0,"N/A",12.0,468.0,462.0
+"Bendale",127.0,"N/A",22.0,504.0,394.0
+"Agincourt South-Malvern West",128.0,"N/A",18.0,250.0,127.0
+"Agincourt North",129.0,"N/A",8.0,247.0,0.0
+"Milliken",130.0,"N/A",3.0,156.0,139.0
+"Rouge",131.0,"N/A",30.0,332.0,225.0
+"Malvern",132.0,"N/A",36.0,1014.0,630.0
+"Centennial Scarborough",133.0,"N/A",3.0,126.0,72.0
+"Highland Creek",134.0,"N/A",4.0,0.0,0.0
+"Morningside",135.0,"N/A",19.0,523.0,488.0
+"West Hill",136.0,"N/A",18.0,2052.0,1829.0
+"Woburn",137.0,"N/A",36.0,2594.0,2362.0
+"Eglinton East",138.0,"N/A",22.0,885.0,734.0
+"Scarborough Village",139.0,"N/A",30.0,788.0,692.0
+"Guildwood",140.0,"N/A",3.0,48.0,0.0
